@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServicioWeb</string>
+    <string name="web_services">Servicios Web</string>
+    <string name="exit">Salir</string>
+    <string name="control_number">Número de Control</string>
+    <string name="search_student">Buscar Estudiante</string>
+    <string name="name">Nombre(s)</string>
+    <string name="father_lastname">Apellido Paterno</string>
+    <string name="mother_lastname">Apellido Materno</string>
+    <string name="clear_fields">Limpiar Campos</string>
+</resources>
